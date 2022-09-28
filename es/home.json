@@ -7,7 +7,13 @@
       "infoSection": "La igualdad de género debe ser un ítem estratégico en la empresa y, por ello, dentro de BCP existe un liderazgo claro al respecto, sobre todo desde la propia dirección general."
    },
    "servicesSection": {
-      "titleSection": "Servicios"
+      "titleSection": "Servicios",
+      "services": [
+         "Servicios Financieros",
+         "Servicio Legal",
+         "Desarrollo de Software",
+         "Servicio de Aduanas"
+      ]
    },
    "ourTeamSection": {
 
